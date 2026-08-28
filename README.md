@@ -1,8 +1,6 @@
 # UX Analytics Pipeline
 
-This repository exports UX session data from Azure Table Storage,
-parses and standardizes it, calculates UX metrics, builds reports,
-and validates the analytics pipeline.
+This repository captures the final public version of a multi-stage UX analytics pipeline that was developed iteratively across several working commits before being consolidated for portfolio review. This repository exports UX session data from Azure Table Storage, parses and standardizes it, calculates UX metrics, builds reports, and validates the analytics pipeline.
 
 ## Project structure
 
